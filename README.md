@@ -1,6 +1,6 @@
 #  Session Timer App (Windows)
 
-A beautiful and minimal multi-session timer designed to keep you focused and productive.
+A  minimal multi-session timer designed to keep you focused and productive.
 
 ##  Features
 
