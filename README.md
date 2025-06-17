@@ -15,7 +15,7 @@ A beautiful and minimal multi-session timer designed to keep you focused and pro
 
 ##  How to Use
 
-1. **Open the app** by double-clicking `Session Timer.exe`.
+1. **Open the app** by double-clicking `session_timer.exe`.
 2. Click **Add Session** to create a new timer.
 3. Type a session name (e.g. `Focus`) and set how many minutes it should run.
 4. Press **Start** to begin the timer.
