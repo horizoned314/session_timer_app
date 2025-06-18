@@ -2,10 +2,7 @@
 
 A  minimal multi-session timer designed to keep you focused and productive.
 
-![Screenshot 2025-06-18 155106](https://github.com/user-attachments/assets/229f1f23-b322-4ff8-a82f-7c76c68e40b5)
-![Screenshot 2025-06-18 155148](https://github.com/user-attachments/assets/7dc3ae30-cd45-4920-823c-86a8cc820052)
-![Screenshot 2025-06-18 155212](https://github.com/user-attachments/assets/de2212d5-8fa1-4834-9582-77e5a71cd1c7)
-![Screenshot 2025-06-18 155225](https://github.com/user-attachments/assets/0d9b57a2-d9f5-4030-8107-1e11f9fcf2b6)
+![Desain tanpa judul](https://github.com/user-attachments/assets/dc944229-09d9-4d30-ac60-64b9e92574ce)
 
 ##  Features
 
